@@ -2,6 +2,7 @@
 Demonstration of chat through the opening of two windows  | Демонстрация чата через открытие двух окон
 
 ![Screen Banner](cover/1.png)
+![Screen Banner](cover/2.png)
 
 ## Available Scripts
 
